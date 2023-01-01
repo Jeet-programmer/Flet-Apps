@@ -13,3 +13,4 @@ pip install flet --upgrade
 To install Flet pre-release (for advanced users) run:
 
 pip install flet --pre
+![image](https://user-images.githubusercontent.com/77581157/210176076-3d5c905f-409c-4c20-9391-aa75b00a4fef.png)
